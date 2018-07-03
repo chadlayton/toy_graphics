@@ -1,0 +1,4 @@
+frame(100)
+	average (ms): 7.34808
+	    min (ms): 6.22483
+	    max (ms): 12.2712
